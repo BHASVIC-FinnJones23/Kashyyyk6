@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-10-31T15:42:56.762Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/118.0" etag="cs_NodC0imO3NMIME-Qc" version="22.0.8" type="github">
+<mxfile host="app.diagrams.net" modified="2023-10-31T15:43:05.353Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="vtJM01Dd5LM0o0xqGkyq" version="22.0.8" type="github">
   <diagram name="Page-1" id="g4rA1UfjoHgd0uxCYoGI">
-    <mxGraphModel dx="2876" dy="709" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2649" dy="633" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -10,7 +10,7 @@
         <mxCell id="xWcp2EsW1pXefpogUu0f-2" value="&lt;div&gt;Guest Check in&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-210" y="200" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="2HaEW5ayOSchESDhEftc-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="xWcp2EsW1pXefpogUu0f-3" target="2HaEW5ayOSchESDhEftc-7" edge="1">
+        <mxCell id="2HaEW5ayOSchESDhEftc-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="xWcp2EsW1pXefpogUu0f-3" target="2HaEW5ayOSchESDhEftc-7">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="2HaEW5ayOSchESDhEftc-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="xWcp2EsW1pXefpogUu0f-3" target="2HaEW5ayOSchESDhEftc-20">
@@ -18,134 +18,145 @@
         </mxCell>
         <mxCell id="2HaEW5ayOSchESDhEftc-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="2HaEW5ayOSchESDhEftc-21">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1129.9999999999995" y="250.0000000000001" as="sourcePoint" />
-            <mxPoint x="1089.9999999999995" y="309.9999999999999" as="targetPoint" />
+            <mxPoint x="719.9999999999995" y="275.0000000000001" as="sourcePoint" />
+            <mxPoint x="679.9999999999995" y="334.9999999999999" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="2HaEW5ayOSchESDhEftc-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="xWcp2EsW1pXefpogUu0f-3" target="2HaEW5ayOSchESDhEftc-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="xWcp2EsW1pXefpogUu0f-3" value="Book a dinner table" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="1120" y="200" width="120" height="60" as="geometry" />
+          <mxGeometry x="710" y="225" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="xWcp2EsW1pXefpogUu0f-4" value="&lt;div&gt;Check Out&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="627" y="200" width="120" height="60" as="geometry" />
+          <mxGeometry x="1440" y="210" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="xWcp2EsW1pXefpogUu0f-5" value="Soft Quit program" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="747" y="200" width="120" height="60" as="geometry" />
+          <mxGeometry x="2050" y="210" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="2HaEW5ayOSchESDhEftc-7" value="Ask for Booking iD&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="1313" y="290" width="120" height="60" as="geometry" />
+        <mxCell id="2HaEW5ayOSchESDhEftc-7" value="Ask for Booking iD FB or HB or book table&lt;br&gt;&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1096" y="310" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="2HaEW5ayOSchESDhEftc-10" value="FB or HB or book table" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="1313" y="390" width="120" height="60" as="geometry" />
+        <mxCell id="2HaEW5ayOSchESDhEftc-10" value="Check if free table for the number of people in that party" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1096" y="410" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="87aQEBoh5xDX5XQvqtUe-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="87aQEBoh5xDX5XQvqtUe-1" edge="1">
+        <mxCell id="87aQEBoh5xDX5XQvqtUe-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="87aQEBoh5xDX5XQvqtUe-1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="-720" y="370" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="2HaEW5ayOSchESDhEftc-11" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="1483" y="290" width="120" height="60" as="geometry" />
+        <mxCell id="2HaEW5ayOSchESDhEftc-11" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1266" y="310" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="87aQEBoh5xDX5XQvqtUe-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="87aQEBoh5xDX5XQvqtUe-1" target="87aQEBoh5xDX5XQvqtUe-5" edge="1">
+        <mxCell id="87aQEBoh5xDX5XQvqtUe-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="87aQEBoh5xDX5XQvqtUe-1" target="87aQEBoh5xDX5XQvqtUe-5">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="2HaEW5ayOSchESDhEftc-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="2HaEW5ayOSchESDhEftc-12" target="2HaEW5ayOSchESDhEftc-14" edge="1">
+        <mxCell id="2HaEW5ayOSchESDhEftc-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="2HaEW5ayOSchESDhEftc-12" target="2HaEW5ayOSchESDhEftc-14">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1180" y="410" as="targetPoint" />
+            <mxPoint x="770" y="435" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="87aQEBoh5xDX5XQvqtUe-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="87aQEBoh5xDX5XQvqtUe-1" target="87aQEBoh5xDX5XQvqtUe-9" edge="1">
+        <mxCell id="87aQEBoh5xDX5XQvqtUe-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="87aQEBoh5xDX5XQvqtUe-1" target="87aQEBoh5xDX5XQvqtUe-9">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="2HaEW5ayOSchESDhEftc-12" value="Display Table names + times of space" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="1120" y="290" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="87aQEBoh5xDX5XQvqtUe-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="87aQEBoh5xDX5XQvqtUe-1" target="87aQEBoh5xDX5XQvqtUe-10" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="2HaEW5ayOSchESDhEftc-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="2HaEW5ayOSchESDhEftc-14" edge="1">
+        <mxCell id="2HaEW5ayOSchESDhEftc-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="2HaEW5ayOSchESDhEftc-12" target="2HaEW5ayOSchESDhEftc-27">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1180" y="490" as="targetPoint" />
+            <mxPoint x="880.0000000000005" y="345" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="87aQEBoh5xDX5XQvqtUe-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="87aQEBoh5xDX5XQvqtUe-1" target="87aQEBoh5xDX5XQvqtUe-7" edge="1">
+        <mxCell id="2HaEW5ayOSchESDhEftc-12" value="Display options for Table names + times of space" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="710" y="315" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="87aQEBoh5xDX5XQvqtUe-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="87aQEBoh5xDX5XQvqtUe-1" target="87aQEBoh5xDX5XQvqtUe-10">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="2HaEW5ayOSchESDhEftc-14" value="Ask user user which table they want to book + time" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="1120" y="380" width="120" height="60" as="geometry" />
+        <mxCell id="2HaEW5ayOSchESDhEftc-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="2HaEW5ayOSchESDhEftc-14">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="770" y="515" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
-        <mxCell id="87aQEBoh5xDX5XQvqtUe-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="87aQEBoh5xDX5XQvqtUe-1" target="87aQEBoh5xDX5XQvqtUe-11" edge="1">
+        <mxCell id="87aQEBoh5xDX5XQvqtUe-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="87aQEBoh5xDX5XQvqtUe-1" target="87aQEBoh5xDX5XQvqtUe-7">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="2HaEW5ayOSchESDhEftc-17" value="If successful, print table is booked for the specific table and time&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="1120" y="490" width="120" height="60" as="geometry" />
+        <mxCell id="2HaEW5ayOSchESDhEftc-14" value="Ask user user which table they want to book + time" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="710" y="405" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="87aQEBoh5xDX5XQvqtUe-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="87aQEBoh5xDX5XQvqtUe-1" target="87aQEBoh5xDX5XQvqtUe-19" edge="1">
+        <mxCell id="87aQEBoh5xDX5XQvqtUe-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="87aQEBoh5xDX5XQvqtUe-1" target="87aQEBoh5xDX5XQvqtUe-11">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="87aQEBoh5xDX5XQvqtUe-1" value="Input" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="2HaEW5ayOSchESDhEftc-17" value="If successful, print table is booked for the specific table and time&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="710" y="515" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="87aQEBoh5xDX5XQvqtUe-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="87aQEBoh5xDX5XQvqtUe-1" target="87aQEBoh5xDX5XQvqtUe-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="87aQEBoh5xDX5XQvqtUe-1" value="Input" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-790" y="290" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="87aQEBoh5xDX5XQvqtUe-2" value="Processing" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="87aQEBoh5xDX5XQvqtUe-2" value="Processing" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-210" y="290" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="87aQEBoh5xDX5XQvqtUe-5" value="Main Users First and Sirname" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="87aQEBoh5xDX5XQvqtUe-5" value="Main Users First and Sirname" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-920" y="370" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="87aQEBoh5xDX5XQvqtUe-6" value="Main Users DOB dd/mm/yyyy" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="87aQEBoh5xDX5XQvqtUe-6" value="Main Users DOB dd/mm/yyyy" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-790" y="370" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="87aQEBoh5xDX5XQvqtUe-7" value="How many guests in room" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="87aQEBoh5xDX5XQvqtUe-7" value="How many guests in room" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-660" y="370" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="87aQEBoh5xDX5XQvqtUe-8" value="Number of children (&amp;lt;=16)" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="87aQEBoh5xDX5XQvqtUe-8" value="Number of children (&amp;lt;=16)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-660" y="440" width="120" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="87aQEBoh5xDX5XQvqtUe-9" value="Length of Stay in INTEGER days" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="87aQEBoh5xDX5XQvqtUe-9" value="Length of Stay in INTEGER days" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-1050" y="370" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="87aQEBoh5xDX5XQvqtUe-10" value="Type of stay&lt;br&gt;&lt;div&gt;FB-Full Board&lt;/div&gt;&lt;div&gt;HB-Half Board&lt;/div&gt;&lt;div&gt;BB-Bed and breakfast&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="87aQEBoh5xDX5XQvqtUe-10" value="Type of stay&lt;br&gt;&lt;div&gt;FB-Full Board&lt;/div&gt;&lt;div&gt;HB-Half Board&lt;/div&gt;&lt;div&gt;BB-Bed and breakfast&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-1180" y="370" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="87aQEBoh5xDX5XQvqtUe-11" value="Would they like a daily newspaper" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="87aQEBoh5xDX5XQvqtUe-11" value="Would they like a daily newspaper" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-1310" y="370" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="LjkcAQPAtYwirEBkpaQn-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="87aQEBoh5xDX5XQvqtUe-19" target="87aQEBoh5xDX5XQvqtUe-24">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="87aQEBoh5xDX5XQvqtUe-19" value="Room Selectrion" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="87aQEBoh5xDX5XQvqtUe-19" value="Room Selectrion" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-1440" y="370" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="87aQEBoh5xDX5XQvqtUe-21" value="Generate a booking ID using the main users sirname with a random number on the end" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="87aQEBoh5xDX5XQvqtUe-21" value="Generate a booking ID using the main users sirname with a random number on the end" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-210" y="370" width="120" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="87aQEBoh5xDX5XQvqtUe-22" value="Output" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="87aQEBoh5xDX5XQvqtUe-22" value="Output" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="80" y="290" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="87aQEBoh5xDX5XQvqtUe-23" value="Display the available rooms" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="87aQEBoh5xDX5XQvqtUe-23" value="Display the available rooms" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="80" y="370" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="87aQEBoh5xDX5XQvqtUe-24" value="Input the room number" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="87aQEBoh5xDX5XQvqtUe-24" value="Input the room number" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-1440" y="450" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="87aQEBoh5xDX5XQvqtUe-25" value="Generate a final Bill at the end of the stay" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
+        <mxCell id="87aQEBoh5xDX5XQvqtUe-25" value="Generate a final Bill at the end of the stay" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="200" width="120" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="2HaEW5ayOSchESDhEftc-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="2HaEW5ayOSchESDhEftc-7" target="2HaEW5ayOSchESDhEftc-10" edge="1">
+        <mxCell id="2HaEW5ayOSchESDhEftc-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="2HaEW5ayOSchESDhEftc-7" target="2HaEW5ayOSchESDhEftc-10">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1300" y="350" as="targetPoint" />
+            <mxPoint x="1083" y="370" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="LjkcAQPAtYwirEBkpaQn-1" value="Show Room prices" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="210" y="370" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="2HaEW5ayOSchESDhEftc-20" value="Variables: Bookings: 7pm, 9pm" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="960" y="200" width="120" height="60" as="geometry" />
+          <mxGeometry x="413" y="315" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="LjkcAQPAtYwirEBkpaQn-2" value="Room rates per room, per day:&lt;br&gt;-&amp;gt;&amp;gt;Room 1 &amp;amp; 2 = £100, Room 3 = £85, Room 4 &amp;amp; 5 = £75 and Room 6 = £50&lt;br&gt;&lt;div&gt;&lt;font color=&quot;#ff7a38&quot;&gt;SUM OFF TWO RATE&lt;/font&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Board rates are per person, per day:&lt;/div&gt;-&amp;gt;&amp;gt;Full board = £20, half board = £15, B&amp;amp;B = £5" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="-370" width="550" height="160" as="geometry" />
         </mxCell>
         <mxCell id="2HaEW5ayOSchESDhEftc-21" value="Variables (tables): Endor, Naboo Tatooine" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="960" y="290" width="120" height="60" as="geometry" />
+          <mxGeometry x="550" y="315" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="2HaEW5ayOSchESDhEftc-27" value="Output appropriate message if any time or table is incorrect&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="870" y="315" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="LjkcAQPAtYwirEBkpaQn-6" value="&lt;div&gt;Take the number of guests and room selections, Look up the pricing in a dictionary&lt;/div&gt;&lt;div&gt;for each day add the room price, and (number of guests*board rate)&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-340" y="370" width="120" height="140" as="geometry" />
