@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-10-31T15:28:40.000Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="SrxLhSA2pQknhICcjRjL" version="22.0.8" type="github">
+<mxfile host="app.diagrams.net" modified="2023-10-31T15:31:15.645Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="z8P0XWlO2Fb6v212iFOK" version="22.0.8" type="github">
   <diagram name="Page-1" id="g4rA1UfjoHgd0uxCYoGI">
     <mxGraphModel dx="2848" dy="760" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -12,6 +12,15 @@
         </mxCell>
         <mxCell id="2HaEW5ayOSchESDhEftc-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="xWcp2EsW1pXefpogUu0f-3" target="2HaEW5ayOSchESDhEftc-7">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="2HaEW5ayOSchESDhEftc-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="xWcp2EsW1pXefpogUu0f-3" target="2HaEW5ayOSchESDhEftc-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="2HaEW5ayOSchESDhEftc-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="2HaEW5ayOSchESDhEftc-21">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1129.9999999999995" y="250.0000000000001" as="sourcePoint" />
+            <mxPoint x="1089.9999999999995" y="309.9999999999999" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="xWcp2EsW1pXefpogUu0f-3" value="Book a dinner table" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1120" y="200" width="120" height="60" as="geometry" />
@@ -122,6 +131,12 @@
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="1300" y="350" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="2HaEW5ayOSchESDhEftc-20" value="Variables: Bookings: 7pm, 9pm" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="960" y="200" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="2HaEW5ayOSchESDhEftc-21" value="Variables (tables): Endor, Naboo Tatooine" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="960" y="290" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
