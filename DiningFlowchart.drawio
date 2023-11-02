@@ -1,9 +1,129 @@
-<mxfile host="app.diagrams.net" modified="2023-11-02T15:24:28.191Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" version="21.7.5" etag="WbAn7RQARLbN35sOWxMa" type="github">
+<mxfile host="app.diagrams.net" modified="2023-11-02T15:39:19.267Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="zkA9ceeiQ6CFFqT8JvB_" version="21.7.5" type="github">
   <diagram name="Page-1" id="vGYmsg3tT3YcZFajpCte">
-    <mxGraphModel>
+    <mxGraphModel dx="1313" dy="668" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="68Xvimdniik40lZgNCqc-45" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="68Xvimdniik40lZgNCqc-2" target="68Xvimdniik40lZgNCqc-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="68Xvimdniik40lZgNCqc-2" value="Run Restaurant&lt;br&gt;booking" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="270" y="80" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="68Xvimdniik40lZgNCqc-32" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="68Xvimdniik40lZgNCqc-4" target="68Xvimdniik40lZgNCqc-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="68Xvimdniik40lZgNCqc-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.89;entryY=0.89;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="68Xvimdniik40lZgNCqc-4" target="68Xvimdniik40lZgNCqc-49">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="720" y="830.5517578125" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="720" y="290" />
+              <mxPoint x="720" y="910" />
+              <mxPoint x="359" y="910" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="68Xvimdniik40lZgNCqc-4" value="Check if full&lt;br&gt;or half board" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="270" y="240" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="68Xvimdniik40lZgNCqc-31" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="68Xvimdniik40lZgNCqc-9" target="68Xvimdniik40lZgNCqc-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="68Xvimdniik40lZgNCqc-9" value="input booking id&lt;br&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="260" y="160" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="68Xvimdniik40lZgNCqc-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="68Xvimdniik40lZgNCqc-10" target="68Xvimdniik40lZgNCqc-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="68Xvimdniik40lZgNCqc-10" value="output bookings for 7 and 9" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="265" y="440" width="110" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="68Xvimdniik40lZgNCqc-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="68Xvimdniik40lZgNCqc-12" target="68Xvimdniik40lZgNCqc-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="68Xvimdniik40lZgNCqc-12" value="Input day" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="260" y="360" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="68Xvimdniik40lZgNCqc-13" value="Input book or quit" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="260" y="524.5" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="68Xvimdniik40lZgNCqc-47" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="68Xvimdniik40lZgNCqc-14" target="68Xvimdniik40lZgNCqc-46">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="68Xvimdniik40lZgNCqc-14" value="Book?" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="270" y="600" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="68Xvimdniik40lZgNCqc-17" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="68Xvimdniik40lZgNCqc-21">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="650" y="390" as="sourcePoint" />
+            <mxPoint x="649.5" y="585" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="68Xvimdniik40lZgNCqc-18" value="" style="endArrow=classic;html=1;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="68Xvimdniik40lZgNCqc-12">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="650" y="390" as="sourcePoint" />
+            <mxPoint x="470" y="510" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="68Xvimdniik40lZgNCqc-19" value="No" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="380" y="620" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="68Xvimdniik40lZgNCqc-22" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="68Xvimdniik40lZgNCqc-20" target="68Xvimdniik40lZgNCqc-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="68Xvimdniik40lZgNCqc-20" value="Do you want&lt;br&gt;to select a&lt;br&gt;different day?" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="430" y="620" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="68Xvimdniik40lZgNCqc-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="68Xvimdniik40lZgNCqc-21" target="68Xvimdniik40lZgNCqc-49">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="650" y="830" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="650" y="910" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="68Xvimdniik40lZgNCqc-21" value="Yes?" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="600" y="600" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="68Xvimdniik40lZgNCqc-29" value="No" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="660" y="700" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="68Xvimdniik40lZgNCqc-30" value="yes" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="650" y="568" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="68Xvimdniik40lZgNCqc-40" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="68Xvimdniik40lZgNCqc-13" target="68Xvimdniik40lZgNCqc-14">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="440" y="500" as="sourcePoint" />
+            <mxPoint x="490" y="450" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="68Xvimdniik40lZgNCqc-41" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="68Xvimdniik40lZgNCqc-14" target="68Xvimdniik40lZgNCqc-20">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="490" y="630" as="sourcePoint" />
+            <mxPoint x="540" y="580" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="68Xvimdniik40lZgNCqc-42" value="yes" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="320" y="330" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="68Xvimdniik40lZgNCqc-44" value="no" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="370" y="260" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="68Xvimdniik40lZgNCqc-51" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="68Xvimdniik40lZgNCqc-46" target="68Xvimdniik40lZgNCqc-49">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="68Xvimdniik40lZgNCqc-46" value="choose table&lt;br&gt;and time" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="260" y="720" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="68Xvimdniik40lZgNCqc-50" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="68Xvimdniik40lZgNCqc-48" target="68Xvimdniik40lZgNCqc-49">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="68Xvimdniik40lZgNCqc-48" value="Write in table" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="260" y="800" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="68Xvimdniik40lZgNCqc-49" value="End" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="270" y="880" width="100" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
