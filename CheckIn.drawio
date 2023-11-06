@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-11-06T09:01:31.861Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/118.0" etag="pRF8xZ8khEmApaeESdc7" version="22.0.8" type="github">
+<mxfile host="app.diagrams.net" modified="2023-11-06T09:22:12.144Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="MNoHaTLJt2UiVdIes-Kf" version="22.0.8" type="github">
   <diagram name="Page-1" id="K1L8OAe72hyBLrfLiRUe">
-    <mxGraphModel dx="794" dy="461" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1194" dy="760" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -10,7 +10,7 @@
         <mxCell id="HlryjuvVYbEryCINoFPO-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="HlryjuvVYbEryCINoFPO-3" target="HlryjuvVYbEryCINoFPO-4" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="HlryjuvVYbEryCINoFPO-3" value="Get Main User Name" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" parent="1" vertex="1">
+        <mxCell id="HlryjuvVYbEryCINoFPO-3" value="Get Main User Name (first/surname)" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" parent="1" vertex="1">
           <mxGeometry x="302.5" y="480.02" width="165" height="60" as="geometry" />
         </mxCell>
         <mxCell id="HlryjuvVYbEryCINoFPO-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="HlryjuvVYbEryCINoFPO-4" target="HlryjuvVYbEryCINoFPO-5" edge="1">
@@ -31,8 +31,11 @@
         <mxCell id="HlryjuvVYbEryCINoFPO-6" value="Ask Number of &amp;lt;=16" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" parent="1" vertex="1">
           <mxGeometry x="302.5" y="720.02" width="165" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="OfGDsdYGY6l-belLdGl2-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="HlryjuvVYbEryCINoFPO-7" target="OfGDsdYGY6l-belLdGl2-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="HlryjuvVYbEryCINoFPO-7" value="Select Board type FB HB BB" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" parent="1" vertex="1">
-          <mxGeometry x="287.5" y="800.02" width="197.5" height="60" as="geometry" />
+          <mxGeometry x="285" y="810" width="197.5" height="60" as="geometry" />
         </mxCell>
         <mxCell id="HlryjuvVYbEryCINoFPO-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="HlryjuvVYbEryCINoFPO-8" target="HlryjuvVYbEryCINoFPO-9" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -52,16 +55,19 @@
         <mxCell id="HlryjuvVYbEryCINoFPO-9" value="Rooms Available?" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="345" y="170" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="HlryjuvVYbEryCINoFPO-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="HlryjuvVYbEryCINoFPO-12" edge="1">
+        <mxCell id="HlryjuvVYbEryCINoFPO-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="HlryjuvVYbEryCINoFPO-12" edge="1" target="OfGDsdYGY6l-belLdGl2-20">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="600" y="560" as="targetPoint" />
+            <mxPoint x="570" y="1498" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="600" y="1480" />
+            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="HlryjuvVYbEryCINoFPO-12" value="Output &quot;Sorry, we&#39;re fully booked!&quot;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" parent="1" vertex="1">
           <mxGeometry x="510" y="280" width="180" height="60" as="geometry" />
         </mxCell>
         <mxCell id="HlryjuvVYbEryCINoFPO-19" value="....End Later on" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="570" y="560" width="60" height="30" as="geometry" />
+          <mxGeometry x="680" y="575.02" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="HlryjuvVYbEryCINoFPO-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="HlryjuvVYbEryCINoFPO-20" target="HlryjuvVYbEryCINoFPO-21" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -82,6 +88,45 @@
             <mxPoint x="600" y="400" as="sourcePoint" />
             <mxPoint x="450" y="420" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="OfGDsdYGY6l-belLdGl2-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="OfGDsdYGY6l-belLdGl2-1" target="OfGDsdYGY6l-belLdGl2-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OfGDsdYGY6l-belLdGl2-1" value="Length of stay (in days) of their stay" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="283.75" y="900" width="200" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OfGDsdYGY6l-belLdGl2-3" value="Whether they want a daily newspaper or not" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="283.75" y="990" width="200" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OfGDsdYGY6l-belLdGl2-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="OfGDsdYGY6l-belLdGl2-15" target="OfGDsdYGY6l-belLdGl2-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OfGDsdYGY6l-belLdGl2-15" value="Assign room" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="287.5" y="1080" width="180" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OfGDsdYGY6l-belLdGl2-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="OfGDsdYGY6l-belLdGl2-17" target="OfGDsdYGY6l-belLdGl2-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OfGDsdYGY6l-belLdGl2-17" value="Output booking iD" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="283.75" y="1270" width="180" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OfGDsdYGY6l-belLdGl2-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="OfGDsdYGY6l-belLdGl2-18" target="OfGDsdYGY6l-belLdGl2-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OfGDsdYGY6l-belLdGl2-18" value="Create booking iD (surname + random number)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="283.75" y="1180" width="186" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OfGDsdYGY6l-belLdGl2-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="OfGDsdYGY6l-belLdGl2-19" target="OfGDsdYGY6l-belLdGl2-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OfGDsdYGY6l-belLdGl2-19" value="Add all info about money to add up to bill (variable) at the the end of their stay" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="1360" width="180" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OfGDsdYGY6l-belLdGl2-20" value="End" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="290" y="1450" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OfGDsdYGY6l-belLdGl2-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.542;entryY=0.017;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="OfGDsdYGY6l-belLdGl2-3" target="OfGDsdYGY6l-belLdGl2-15">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
