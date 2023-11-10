@@ -2,6 +2,7 @@
 #include <stdlib.h>
 #include <ctype.h>
 #include <string.h>
+#include "utilities.h"
 
 int dobToAge(char * dob){
     int valid = 1,age=47,slashPos=0,diff;

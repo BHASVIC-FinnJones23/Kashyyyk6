@@ -9,4 +9,5 @@ add_executable(code
         checkIn.c
         main.c
         utilities.h
-        validation.c)
+        validation.c
+        fileHandling.c)
