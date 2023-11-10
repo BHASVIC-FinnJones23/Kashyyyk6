@@ -10,4 +10,8 @@ int checkIn();
 int checkOut();
 int bookTable();
 
+
+int dobToAge(char * dob);//converts a dd/mm/yyyy to an age, if returns 0, then errored in some way also validates age
+
+
 #endif //KASHYYYK6_UTILITIES_H
