@@ -1,0 +1,44 @@
+bookings
+{
+	{BookingID,WantsANewspaper,NumberOfNights,NumberOfPeople,NumberOfChildren,MainAge,MainName,RoomNumber,BoardType}
+}
+
+0 1 2 3 4 5 6
+M,T,W,Th,F,Sa,Su
+
+day of week:
+	7pm:Endor, Naboo, Tatooine
+	9pm:Endor, Naboo, Tatooine
+
+if value contains "", table is unbooked
+
+dinnerTables{
+	{
+	{"bookingRef","bookingRef","bookingRef"}
+	{"","",""}
+	},
+	{
+	{"","",""}
+	{"","",""}
+	},
+	{
+	{"","",""}
+	{"","",""}
+	},
+	{
+	{"","",""}
+	{"","",""}
+	},
+	{
+	{"","",""}
+	{"","",""}
+	},
+	{
+	{"","",""}
+	{"","",""}
+	},
+	{
+	{"","",""}
+	{"","",""}
+	},
+}
