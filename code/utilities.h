@@ -14,5 +14,6 @@ int bookTable();
 int dobToAge(char * dob);//converts a dd/mm/yyyy to an age, if returns 0, then errored in some way also validates age
 //in fileHandling.c
 void updateLocalBookingList();
+void updateFiles();
 
 #endif //KASHYYYK6_UTILITIES_H
