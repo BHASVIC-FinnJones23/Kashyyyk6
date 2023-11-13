@@ -1,0 +1,9 @@
+BookingID
+WantsANewspaper
+NumberOfNights
+NumberOfPeople
+NumberOfChildren
+MainAge
+MainName
+RoomNumber
+BoardType

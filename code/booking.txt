@@ -1,6 +1,0 @@
-BookingID,WantsANewspaper,NumberOfNights,NumberOfPeople,NumberOfChildren,MainAge,MainName,RoomNumber,BoardType
-BookingID,WantsANewspaper,NumberOfNights,NumberOfPeople,NumberOfChildren,MainAge,MainName,RoomNumber,BoardType
-BookingID,WantsANewspaper,NumberOfNights,NumberOfPeople,NumberOfChildren,MainAge,MainName,RoomNumber,BoardType
-BookingID,WantsANewspaper,NumberOfNights,NumberOfPeople,NumberOfChildren,MainAge,MainName,RoomNumber,BoardType
-BookingID,WantsANewspaper,NumberOfNights,NumberOfPeople,NumberOfChildren,MainAge,MainName,RoomNumber,BoardType
-BookingID,WantsANewspaper,NumberOfNights,NumberOfPeople,NumberOfChildren,MainAge,MainName,RoomNumber,BoardType

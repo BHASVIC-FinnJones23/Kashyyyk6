@@ -1,5 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="CMakePresetLoader"><![CDATA[{
+  "useNewFormat": true
+}]]></component>
+  <component name="CMakeReloadState">
+    <option name="reloaded" value="true" />
+  </component>
+  <component name="CMakeRunConfigurationManager">
+    <generated>
+      <config projectName="code" targetName="code" />
+    </generated>
+  </component>
   <component name="CMakeSettings">
     <configurations>
       <configuration PROFILE_NAME="Debug" ENABLED="true" CONFIG_NAME="Debug" />
@@ -7,9 +21,40 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="82d5edd6-5baf-49b1-801f-1a37234098f3" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/checkIn.c" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/main.c" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/utilities.h" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/room1.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/room2.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/room3.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/room4.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/room5.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/room6.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/Kashyyyk6.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Kashyyyk6.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/code/booking.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/code/cmake-build-debug/.cmake/api/v1/reply/cache-v2-5cafa8a99de5dbb66d05.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/code/cmake-build-debug/.cmake/api/v1/reply/cmakeFiles-v1-69c1766cd065c573ed96.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/code/cmake-build-debug/.cmake/api/v1/reply/codemodel-v2-6ae0d0d6245055d915b2.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/code/cmake-build-debug/.cmake/api/v1/reply/index-2023-11-10T17-01-36-0774.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/code/cmake-build-debug/.cmake/api/v1/reply/target-code-Debug-15b0354ac7c8fad44827.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/code/cmake-build-debug/.cmake/api/v1/reply/toolchains-v1-ca1df27017aa6699e5ca.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/code/cmake-build-debug/CMakeCache.txt" beforeDir="false" afterPath="$PROJECT_DIR$/code/cmake-build-debug/CMakeCache.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/code/cmake-build-debug/CMakeFiles/3.26.4/CMakeCCompiler.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/code/cmake-build-debug/CMakeFiles/3.26.4/CMakeCCompiler.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/code/cmake-build-debug/CMakeFiles/3.26.4/CMakeDetermineCompilerABI_C.bin" beforeDir="false" afterPath="$PROJECT_DIR$/code/cmake-build-debug/CMakeFiles/3.26.4/CMakeDetermineCompilerABI_C.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/code/cmake-build-debug/CMakeFiles/3.26.4/CMakeRCCompiler.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/code/cmake-build-debug/CMakeFiles/3.26.4/CMakeRCCompiler.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/code/cmake-build-debug/CMakeFiles/3.26.4/CompilerIdC/a.exe" beforeDir="false" afterPath="$PROJECT_DIR$/code/cmake-build-debug/CMakeFiles/3.26.4/CompilerIdC/a.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/code/cmake-build-debug/CMakeFiles/CMakeConfigureLog.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/code/cmake-build-debug/CMakeFiles/CMakeConfigureLog.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/code/cmake-build-debug/CMakeFiles/TargetDirectories.txt" beforeDir="false" afterPath="$PROJECT_DIR$/code/cmake-build-debug/CMakeFiles/TargetDirectories.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/code/cmake-build-debug/CMakeFiles/clion-Debug-log.txt" beforeDir="false" afterPath="$PROJECT_DIR$/code/cmake-build-debug/CMakeFiles/clion-Debug-log.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/code/cmake-build-debug/CMakeFiles/clion-environment.txt" beforeDir="false" afterPath="$PROJECT_DIR$/code/cmake-build-debug/CMakeFiles/clion-environment.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/code/cmake-build-debug/CMakeFiles/code.dir/checkIn.c.obj" beforeDir="false" afterPath="$PROJECT_DIR$/code/cmake-build-debug/CMakeFiles/code.dir/checkIn.c.obj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/code/cmake-build-debug/CMakeFiles/code.dir/fileHandling.c.obj" beforeDir="false" afterPath="$PROJECT_DIR$/code/cmake-build-debug/CMakeFiles/code.dir/fileHandling.c.obj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/code/cmake-build-debug/CMakeFiles/code.dir/main.c.obj" beforeDir="false" afterPath="$PROJECT_DIR$/code/cmake-build-debug/CMakeFiles/code.dir/main.c.obj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/code/cmake-build-debug/CMakeFiles/code.dir/validation.c.obj" beforeDir="false" afterPath="$PROJECT_DIR$/code/cmake-build-debug/CMakeFiles/code.dir/validation.c.obj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/code/cmake-build-debug/CMakeFiles/rules.ninja" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/code/cmake-build-debug/Testing/Temporary/LastTest.log" beforeDir="false" afterPath="$PROJECT_DIR$/code/cmake-build-debug/Testing/Temporary/LastTest.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/code/cmake-build-debug/cmake_install.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/code/cmake-build-debug/cmake_install.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/code/cmake-build-debug/code.exe" beforeDir="false" afterPath="$PROJECT_DIR$/code/cmake-build-debug/code.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/code/fileHandling.c" beforeDir="false" afterPath="$PROJECT_DIR$/code/fileHandling.c" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -19,13 +64,14 @@
   <component name="ClangdSettings">
     <option name="formatViaClangd" value="false" />
   </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "customColor": "",
-  "associatedIndex": 6
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 6
+}</component>
   <component name="ProjectId" id="2Xz7okGXd0bgQQLPGyeuJG155fV" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -33,17 +79,40 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.cidr.known.project.marker": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false",
     "cf.first.check.clang-format": "false",
     "cidr.known.project.marker": "true",
     "git-widget-placeholder": "main",
-    "last_opened_file_path": "C:/Users/Finn/Documents/School CS stuff/Kashyyyk6/code",
+    "last_opened_file_path": "C:/Users/School/github/Kashyyyk6/code",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\School\github\Kashyyyk6\code" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="CLionExternalRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true">
+      <method v="2">
+        <option name="CLION.EXTERNAL.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="code" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="code" TARGET_NAME="code" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="code" RUN_TARGET_NAME="code">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -53,10 +122,19 @@
       <option name="presentableId" value="Default" />
       <updated>1699620232705</updated>
       <workItem from="1699620234125" duration="28000" />
+      <workItem from="1699868295902" duration="8000" />
+      <workItem from="1699868313678" duration="92000" />
+      <workItem from="1699868992440" duration="2849000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VCPKGProject">
+    <isAutomaticEditVcpkgJson value="false" />
+    <isAutomaticCheckingOnLaunch value="false" />
+    <isAutomaticFoundErrors value="true" />
+    <isAutomaticFoundErrors value="true" />
   </component>
 </project>
