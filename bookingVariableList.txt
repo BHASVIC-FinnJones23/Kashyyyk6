@@ -1,6 +1,7 @@
+this should be a string list aswell char bookings[6][9][50] 6 rooms, 9 potential fields, 49 available characters per field
 bookings
 {
-	{BookingID,WantsANewspaper,NumberOfNights,NumberOfPeople,NumberOfChildren,MainAge,MainName,RoomNumber,BoardType}
+	{BookingID,WantsANewspaper,NumberOfNights,NumberOfPeople,NumberOfChildren,mainDateOfBirth,MainName,RoomNumber,BoardType}
 }
 
 0 1 2 3 4 5 6
