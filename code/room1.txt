@@ -1,4 +1,4 @@
-BookingID
+ROOM1BookingID
 WantsANewspaper
 NumberOfNights
 NumberOfPeople

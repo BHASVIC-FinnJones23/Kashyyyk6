@@ -9,6 +9,7 @@ char bookings[6][9][50];
 void updateLocalBookingList(){
     FILE *fpointer;
     char lineHolder[500]="";
+
     int i=0;
     for(i=1;i<=6;i++){
         char path[15]="..//room0.txt";
@@ -17,31 +18,25 @@ void updateLocalBookingList(){
 
 
         if((fpointer = fopen(path,"r"))==NULL){
+            //this should never happen unless some idiot deleted the booking files
             printf("Error Opening the file!\n");
-        }else{
-            printf("~~~~File %s opened~~~~\n",path);
         }
+
         int k=0;
-        int j=0;
-        while(fgets(lineHolder,500,fpointer)!=NULL){
+        while(fgets(lineHolder,51,fpointer)!=NULL){
+            int j=0;
             while(lineHolder[j]!='\0'){
-                printf("%s",lineHolder);
-                //bookings[i-1][k][j]=lineHolder[j];
-                
+                //"i" is the real room number
+                //so i-1 would be the reference in booking array
+                //I have to loop through it so many times to prevtn using RUBBISH string functions
+                //strcpy() <--Useless Junk
+                bookings[i-1][k][j]=lineHolder[j];
+
                 j++;
             }
             k++;
         }
         fclose(fpointer);
-        printf("-----CLOSING FILE-----\n");
-    }
-    printf("Booking array\n");
-    int k;
-    for(i=0;i<6;i++){
-        for(k=0;k<9;k++){
-            printf("%s,",bookings[i][k]);
-        }
-        printf("\n");
     }
 
 
