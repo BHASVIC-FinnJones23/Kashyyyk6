@@ -40,7 +40,7 @@ void updateLocalBookingList(){
         int k=0;
         while(fgets(lineHolder,51,fpointer)!=NULL){
             int j=0;
-            while(j<100&&(lineHolder[j]!='\0'||lineHolder[j]!='\n')){
+            while(j<100&&(lineHolder[j]!='\0'||lineHolder[j]!='\n')){//this line is not always true, is bull####
                 //"i" is the real room number
                 //so i-1 would be the reference in booking array
                 //I have to loop through it so many times to prevtn using RUBBISH string functions
