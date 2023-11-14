@@ -10,4 +10,5 @@ add_executable(code
         main.c
         utilities.h
         validation.c
-        fileHandling.c)
+        fileHandling.c
+        cmake-build-debug/restaurantbooking.c)

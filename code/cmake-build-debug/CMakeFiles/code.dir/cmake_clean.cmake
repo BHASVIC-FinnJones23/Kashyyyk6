@@ -5,6 +5,8 @@ file(REMOVE_RECURSE
   "CMakeFiles/code.dir/fileHandling.c.obj.d"
   "CMakeFiles/code.dir/main.c.obj"
   "CMakeFiles/code.dir/main.c.obj.d"
+  "CMakeFiles/code.dir/restaurantbooking.c.obj"
+  "CMakeFiles/code.dir/restaurantbooking.c.obj.d"
   "CMakeFiles/code.dir/validation.c.obj"
   "CMakeFiles/code.dir/validation.c.obj.d"
   "code.exe"
