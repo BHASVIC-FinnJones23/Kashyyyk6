@@ -6,10 +6,7 @@
 
 int main() {
     updateLocalBookingList();
-    strcpy(bookings[0][0],"TestDataReplacement\n");//data needs to be submitted with a \n infront of it
+    strcpy(bookings[0][0],"jmak2882824");
     updateFiles();//dangerous function this is
-
-
-
     return 0;
 }
