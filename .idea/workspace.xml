@@ -22,9 +22,19 @@
   <component name="ChangeListManager">
     <list default="true" id="82d5edd6-5baf-49b1-801f-1a37234098f3" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/code/cmake-build-debug/CMakeFiles/code.dir/fileHandling.c.obj" beforeDir="false" afterPath="$PROJECT_DIR$/code/cmake-build-debug/CMakeFiles/code.dir/fileHandling.c.obj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/code/cmake-build-debug/CMakeFiles/code.dir/main.c.obj" beforeDir="false" afterPath="$PROJECT_DIR$/code/cmake-build-debug/CMakeFiles/code.dir/main.c.obj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/code/cmake-build-debug/CMakeFiles/code.dir/objects.a" beforeDir="false" afterPath="$PROJECT_DIR$/code/cmake-build-debug/CMakeFiles/code.dir/objects.a" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/code/cmake-build-debug/Testing/Temporary/LastTest.log" beforeDir="false" afterPath="$PROJECT_DIR$/code/cmake-build-debug/Testing/Temporary/LastTest.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/code/cmake-build-debug/code.exe" beforeDir="false" afterPath="$PROJECT_DIR$/code/cmake-build-debug/code.exe" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/code/fileHandling.c" beforeDir="false" afterPath="$PROJECT_DIR$/code/fileHandling.c" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/code/main.c" beforeDir="false" afterPath="$PROJECT_DIR$/code/main.c" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/code/room1.txt" beforeDir="false" afterPath="$PROJECT_DIR$/code/room1.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/code/room2.txt" beforeDir="false" afterPath="$PROJECT_DIR$/code/room2.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/code/room3.txt" beforeDir="false" afterPath="$PROJECT_DIR$/code/room3.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/code/room4.txt" beforeDir="false" afterPath="$PROJECT_DIR$/code/room4.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/code/room5.txt" beforeDir="false" afterPath="$PROJECT_DIR$/code/room5.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/code/room6.txt" beforeDir="false" afterPath="$PROJECT_DIR$/code/room6.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -94,7 +104,7 @@
       <workItem from="1699620234125" duration="28000" />
       <workItem from="1699868295902" duration="8000" />
       <workItem from="1699868313678" duration="92000" />
-      <workItem from="1699868992440" duration="7195000" />
+      <workItem from="1699868992440" duration="10300000" />
     </task>
     <servers />
   </component>
@@ -106,5 +116,16 @@
     <isAutomaticCheckingOnLaunch value="false" />
     <isAutomaticFoundErrors value="true" />
     <isAutomaticFoundErrors value="true" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/code/fileHandling.c</url>
+          <line>53</line>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>

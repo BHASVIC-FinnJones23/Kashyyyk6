@@ -11,11 +11,11 @@ void updateFiles(){
     int i=0;
     for(i=0;i<6;i++){
         char path[15]="..//room0.txt";
-        int roomNumber = i+1;
+        int roomNumber = i + 1;
         path[8]=roomNumber+'0';
         fpointer = fopen(path,"w");//open the rooms file
         //this isn't great
-        fprintf(fpointer,"%s%s%s%s%s%s%s%s%s",bookings[i][0],bookings[i][1],bookings[i][2],bookings[i][3],bookings[i][4],bookings[i][5],bookings[i][6],bookings[i][7],bookings[i][8]);
+        fprintf(fpointer,"%s\n%s\n%s\n%s\n%s\n%s\n%s\n%s\n%s\n",bookings[i][0],bookings[i][1],bookings[i][2],bookings[i][3],bookings[i][4],bookings[i][5],bookings[i][6],bookings[i][7],bookings[i][8]);
         fclose(fpointer);
     }
 
@@ -40,7 +40,7 @@ void updateLocalBookingList(){
         int k=0;
         while(fgets(lineHolder,51,fpointer)!=NULL){
             int j=0;
-            while(j<100&&(lineHolder[j]!='\0'||lineHolder[j]!='\n')){//this line is not always true, is bull####
+            while(j<50&&(lineHolder[j]!='\0'&&lineHolder[j]!='\n')){//this line is not always true, is bull####
                 //"i" is the real room number
                 //so i-1 would be the reference in booking array
                 //I have to loop through it so many times to prevtn using RUBBISH string functions
